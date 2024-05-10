@@ -1,3 +1,4 @@
+[![Linter & Unittests & Deploy](https://github.com/nezakoo/k8s-autoscaling-demo/actions/workflows/ci.yml/badge.svg)](https://github.com/nezakoo/k8s-autoscaling-demo/actions/workflows/ci.yml)
 # Kubernetes autoscaling demo
 
 ## Overview
